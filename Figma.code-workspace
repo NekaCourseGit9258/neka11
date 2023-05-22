@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../neka5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Figma",
+		"liveServer.settings.port": 5501
+	}
+}
